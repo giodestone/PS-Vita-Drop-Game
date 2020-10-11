@@ -1,6 +1,6 @@
 # PlayStation Vita Drop Game
-![GIF of Gameplay](https://raw.githubusercontent.com/giodestone/ps-vita-drop-game/master/Images/GIF.gif)
 A game about keeping the green ball on the paddle while random objects destabilize it. This game was developed for the PlayStation Vita using the GEF framework in C++. It uses a component game object system.
+![GIF of Gameplay](https://raw.githubusercontent.com/giodestone/ps-vita-drop-game/master/Images/GIF.gif)
 
 # Game Structure
 The game is structured using a component based game object system. Each game object has components. Each of the scenes are responsible for adding game objects, and unless marked otherwise they are destroyed when the scene changes. This was modelled heavily after how Unity works.
