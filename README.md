@@ -10,7 +10,7 @@ As much modern C++ was used as possible, however the PlayStation Vita has limite
 ![Main Menu Screen](https://raw.githubusercontent.com/giodestone/ps-vita-drop-game/master/Images/MainMenuScreen.jpg)
 
 # Running
-[Download Here](LINK)
+[Download Here](https://github.com/giodestone/ps-vita-drop-game/releases/tag/1.0.0)
 
 PlayStation 4 controller required. Uses the left analogue stick and RZ.
 
