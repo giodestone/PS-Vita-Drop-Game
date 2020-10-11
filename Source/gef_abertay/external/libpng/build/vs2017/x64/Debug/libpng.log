@@ -1,0 +1,23 @@
+﻿  png.c
+  pngerror.c
+  pngget.c
+  pngmem.c
+  pngpread.c
+  pngread.c
+m:\cmp208\gef_abertay\external\libpng\pngread.c(1489): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+m:\cmp208\gef_abertay\external\libpng\pngread.c(1505): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(181): note: see declaration of 'strerror'
+  pngrio.c
+  pngrtran.c
+  pngrutil.c
+  pngset.c
+  pngtrans.c
+  pngwio.c
+  pngwrite.c
+m:\cmp208\gef_abertay\external\libpng\pngwrite.c(480): warning C4996: 'gmtime': This function or variable may be unsafe. Consider using gmtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\time.h(495): note: see declaration of 'gmtime'
+  pngwtran.c
+  pngwutil.c
+  Generating Code...
+  libpng.vcxproj -> M:\CMP208\CMP208-Coursework1\build\vs2017\x64\Debug\libpng.lib

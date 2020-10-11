@@ -1,0 +1,21 @@
+Thank you to Grant Clarke for Audio 3d, Audio Emmiter, Audio Listener and primitive builder.
+
+The InputD3D11 was modified to allow xbox controller analouge stick to work.
+
+The UIbuttons needed a seperate class that got a uibutton - it could've encompased all ui elements (mimicing unity's canvas) but time considerations.
+
+mention style guide in reporT?
+
+Say not happy with item dropper class, but its kind of messey and you can argue its one responsiblity. Originally designed to copy but that would involve memory opoerations which can be considered unsafe.
+
+c++11 features
+
+long time spent with lerping
+
+disconnecting from all joints was quite easy
+
+Revolute joint component not designed to be removed first (intentional bug)
+
+Music bugs for some reason.
+
+Unhappy with collision detection code.

@@ -1,0 +1,8 @@
+﻿  debug_log_win32.cpp
+m:\cmp208\gef_abertay\platform\win32\system\debug_log_win32.cpp(19): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1467): note: see declaration of 'vsprintf'
+  file_win32.cpp
+  platform_win32_null_renderer.cpp
+  window_win32.cpp
+  Generating Code...
+  gef_win32.vcxproj -> M:\CMP208\CMP208-Coursework1\build\vs2017\x64\Debug\gef_win32.lib

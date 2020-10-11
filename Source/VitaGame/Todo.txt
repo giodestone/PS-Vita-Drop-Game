@@ -1,0 +1,33 @@
+﻿FINISH EVERYTHING BY 24th
+
+TODO:
+✔* Add a way to control the paddle
+
+* Add an object spawner
+    - make it spawn things outlined in notebook
+        ✔> bowling ball
+        ✔> plant pot
+        ✔> book
+        ✔> bouncy ball
+        > maybe car (NO)
+
+* Add 3d objects
+    - add ball
+
+* Add sound effects on collision with paddle
+    ✔- when spawning
+    - when going off of screen
+    - when ball goes off of screen
+    - when spawner charges up (NO)
+
+* Delete objects when colliding with a large boundary object on bottom.
+
+* Add respawn
+
+* (Probably add some sort of asset manager)
+
+* Add gamestate manager
+* Add a main menu
+* Add a high score thigy (just steal code from high school c#)
+* Add a difficulty option which affects the spawning rate
+* Display score and lives

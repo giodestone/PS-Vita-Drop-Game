@@ -1,0 +1,31 @@
+﻿  png.c
+M:\CMP208\gef_abertay\external\libpng\png.c(1049): warning 1669: Potential uninitialized reference to "gtest" in function "png_colorspace_set_gamma"
+M:\CMP208\gef_abertay\external\libpng\png.c(1443): warning 1669: Potential uninitialized reference to "left" in function "png_XYZ_from_xy"
+M:\CMP208\gef_abertay\external\libpng\png.c(1443): warning 1669: Potential uninitialized reference to "right" in function "png_XYZ_from_xy"
+M:\CMP208\gef_abertay\external\libpng\png.c(1456): warning 1669: Potential uninitialized reference to "red_inverse" in function "png_XYZ_from_xy"
+M:\CMP208\gef_abertay\external\libpng\png.c(1465): warning 1669: Potential uninitialized reference to "green_inverse" in function "png_XYZ_from_xy"
+M:\CMP208\gef_abertay\external\libpng\png.c(1049): warning 1669: Potential uninitialized reference to "gtest" in function "png_colorspace_set_sRGB"
+M:\CMP208\gef_abertay\external\libpng\png.c(3402): warning 1669: Potential uninitialized reference to "result" in function "png_muldiv_warn"
+  pngerror.c
+  pngget.c
+  pngmem.c
+  pngpread.c
+  pngread.c
+M:\CMP208\gef_abertay\external\libpng\pngread.c(2213): warning 1669: Potential uninitialized reference to "back_r" in function "png_image_read_colormap"
+M:\CMP208\gef_abertay\external\libpng\pngread.c(2213): warning 1669: Potential uninitialized reference to "back_g" in function "png_image_read_colormap"
+M:\CMP208\gef_abertay\external\libpng\pngread.c(2213): warning 1669: Potential uninitialized reference to "back_b" in function "png_image_read_colormap"
+M:\CMP208\gef_abertay\external\libpng\pngread.c(2853): warning 1669: Potential uninitialized reference to "cmap_entries" in function "png_image_read_colormap"
+M:\CMP208\gef_abertay\external\libpng\pngread.c(2853): warning 1669: Potential uninitialized reference to "output_processing" in function "png_image_read_colormap"
+M:\CMP208\gef_abertay\external\libpng\pngread.c(2957): warning 1669: Potential uninitialized reference to "passes" in function "png_image_read_and_map"
+M:\CMP208\gef_abertay\external\libpng\pngread.c(3271): warning 1669: Potential uninitialized reference to "passes" in function "png_image_read_composite"
+M:\CMP208\gef_abertay\external\libpng\pngread.c(3421): warning 1669: Potential uninitialized reference to "passes" in function "png_image_read_background"
+  pngrio.c
+  pngrtran.c
+  pngrutil.c
+  pngset.c
+  pngtrans.c
+  pngwio.c
+  pngwrite.c
+  pngwtran.c
+  pngwutil.c
+  libpng.vcxproj -> M:\CMP208\CMP208-Coursework1\build\vs2017\PSVita\Release Optimised\libpng.a
